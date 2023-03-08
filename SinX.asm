@@ -4,7 +4,7 @@
    numar dw 0
    x dw 0
    impartitor dw 0
-   mesajIntroducere db "Introduceti valoare lui x in radiani: $"
+   mesajIntroducere db "Introduceti valoarea lui x in radiani: $"
    mesajRezultat db "sin(x) = $"
  .CODE
 
